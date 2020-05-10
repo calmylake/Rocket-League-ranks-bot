@@ -1,4 +1,4 @@
 {
-    "token": "seu token",
-    "prefix": "t!"
+    "token": "YOUR_TOKEN",
+    "prefix": "~"
 }
