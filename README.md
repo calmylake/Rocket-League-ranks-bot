@@ -25,7 +25,7 @@ run "npm init" inside a desired folder
   
 5. setup this files into the project  
 put those two files "index.js e botsettings.json" into that folder, at the same level as "package.json"  
-colocar seu token botsettings.json  
+change "YOUR_TOKEN" in botsettings.json to the token in the step 1  
   
 6. run  
 you can use the cmd using the command: node index  
