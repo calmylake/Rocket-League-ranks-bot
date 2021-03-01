@@ -19,7 +19,7 @@ npm install discord.js
 npm install cheerio  
 <https://www.npmjs.com/package/cheerio>  
   
-4. iniciar node.js numa pasta  
+4. start npm inside folder  
 open console (cmd)  
 run "npm init" inside a desired folder  
   
